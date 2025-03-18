@@ -6,9 +6,15 @@
 ![Screenshot (14)](https://github.com/user-attachments/assets/2800e0af-8d3c-48de-b5f0-afa80f473690)
 
 
+
+
+
 **2. write a program to remove the duplicates from an array**
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/cd7250d4-4e18-4df1-8b6b-a864112d841e)
+
+
+
 
 
 **3.Write a program that prints a table indicating the number of occurrences of each alphabet 
@@ -16,6 +22,10 @@ in the text entered as command line arguments**
 
 ![Screenshot (16)](https://github.com/user-attachments/assets/21e56e41-d4f8-4572-ab47-8995b1a61eec)
 ![Screenshot (17)](https://github.com/user-attachments/assets/0235f955-c8fc-411e-b248-3da917846a5d)
+
+
+
+
 
 **4. Write a menu driven program to perform string manipulation (without using inbuilt string 
 functions):**
@@ -38,10 +48,16 @@ g. Insert a string in another string at a user specified position
 ![Screenshot (26)](https://github.com/user-attachments/assets/9901f6c5-9149-4e36-80be-960a6a0813d7)
 
 
+
+
+
 **5.Write a program to merge two ordered arrays to get a single ordered array.**
 
 ![Screenshot (27)](https://github.com/user-attachments/assets/622cb1f7-1928-45a8-ac5d-6673f35cf31e)
 ![Screenshot (28)](https://github.com/user-attachments/assets/c6b21af2-21c0-4e95-b18b-e7b8feb485ba)
+
+
+
 
 
 **6.Write a program to search a given element in a set of N numbers using Binary Search**
@@ -63,9 +79,13 @@ a. with recursion
 ![Screenshot (36)](https://github.com/user-attachments/assets/d2935ecb-b09f-4950-add3-380b9c831180)
 
 
+
 b. without recursion.
 ![Screenshot (37)](https://github.com/user-attachments/assets/3325b20b-5a7b-4937-95e8-040db6f2408c)
 ![Screenshot (38)](https://github.com/user-attachments/assets/6272e767-3a18-45f8-8874-f7747c20f292)
+
+
+
 
 
 **8. Create a Matrix class. Write a menu-driven program to perform following Matrix 
@@ -78,6 +98,10 @@ c. Transpose
 ![Screenshot (40)](https://github.com/user-attachments/assets/fa0b8b0a-b58c-4cb4-b171-2716b87af5d3)
 ![Screenshot (41)](https://github.com/user-attachments/assets/164108ac-52c9-4d9c-b2f3-3d7272227d0a)
 ![Screenshot (42)](https://github.com/user-attachments/assets/46053817-f263-4f8d-b290-77b4fadb31de)
+
+
+
+
 
 
 **9. Define a class Person having name as a data member. Inherit two classes Student and 
@@ -93,6 +117,8 @@ polymorphism.**
 
 
 
+
+
 **10. Create a Triangle class. Add exception handling statements to ensure the following 
 conditions: all sides are greater than 0 and sum of any two sides is greater than the third 
 side. The class should also have overloaded functions for calculating the area of a right 
@@ -102,6 +128,10 @@ triangle.**
 ![Screenshot (48)](https://github.com/user-attachments/assets/e26743a2-5a54-4043-bedd-8e9916b119c3)
 ![Screenshot (49)](https://github.com/user-attachments/assets/10b3ebbc-37ac-45b9-be81-84fe73c0ee73)
 ![Screenshot (50)](https://github.com/user-attachments/assets/b7d9dc77-5025-46d4-afd7-cccd0d1674f8)
+
+
+
+
 
 
 **11. Create a class Student containing fields for Roll No., Name, Class, Year and Total Marks. 
